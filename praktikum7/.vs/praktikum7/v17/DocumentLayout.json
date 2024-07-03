@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VB.NET2022\\Praktikum 7\\praktikum7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75EAAD-3B1F-442D-BF53-0F2D8238CAE1}|praktikum7\\praktikum7.vbproj|e:\\vb.net2022\\praktikum 7\\praktikum7\\praktikum7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4B75EAAD-3B1F-442D-BF53-0F2D8238CAE1}|praktikum7\\praktikum7.vbproj|solutionrelative:praktikum7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75EAAD-3B1F-442D-BF53-0F2D8238CAE1}|praktikum7\\praktikum7.vbproj|e:\\vb.net2022\\praktikum 7\\praktikum7\\praktikum7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4B75EAAD-3B1F-442D-BF53-0F2D8238CAE1}|praktikum7\\praktikum7.vbproj|solutionrelative:praktikum7\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\VB.NET2022\\Praktikum 7\\praktikum7\\praktikum7\\Form1.vb",
+              "RelativeDocumentMoniker": "praktikum7\\Form1.vb",
+              "ToolTip": "E:\\VB.NET2022\\Praktikum 7\\praktikum7\\praktikum7\\Form1.vb",
+              "RelativeToolTip": "praktikum7\\Form1.vb",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-03T07:05:50.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\VB.NET2022\\Praktikum 7\\praktikum7\\praktikum7\\Form1.vb",
+              "RelativeDocumentMoniker": "praktikum7\\Form1.vb",
+              "ToolTip": "E:\\VB.NET2022\\Praktikum 7\\praktikum7\\praktikum7\\Form1.vb [Design]",
+              "RelativeToolTip": "praktikum7\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-03T06:57:02.39Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

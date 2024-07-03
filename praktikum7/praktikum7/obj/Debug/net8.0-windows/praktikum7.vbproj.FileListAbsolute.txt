@@ -1,0 +1,16 @@
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.vbproj.GenerateResource.cache
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.AssemblyInfoInputs.cache
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.AssemblyInfo.vb
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.vbproj.CoreCompileInputs.cache
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\bin\Debug\net8.0-windows\praktikum7.exe
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\bin\Debug\net8.0-windows\praktikum7.deps.json
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\bin\Debug\net8.0-windows\praktikum7.runtimeconfig.json
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\bin\Debug\net8.0-windows\praktikum7.dll
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\bin\Debug\net8.0-windows\praktikum7.pdb
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.Form1.resources
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.dll
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\refint\praktikum7.dll
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.pdb
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\praktikum7.genruntimeconfig.cache
+E:\VB.NET2022\Praktikum 7\praktikum7\praktikum7\obj\Debug\net8.0-windows\ref\praktikum7.dll
